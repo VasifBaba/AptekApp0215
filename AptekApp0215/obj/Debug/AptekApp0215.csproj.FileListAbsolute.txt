@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\AptekApp0215\AptekApp0215\bin\Debug\AptekApp0215.exe.config
+C:\Users\Admin\source\repos\AptekApp0215\AptekApp0215\bin\Debug\AptekApp0215.exe
+C:\Users\Admin\source\repos\AptekApp0215\AptekApp0215\bin\Debug\AptekApp0215.pdb
+C:\Users\Admin\source\repos\AptekApp0215\AptekApp0215\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\AptekApp0215\AptekApp0215\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\AptekApp0215\AptekApp0215\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\AptekApp0215\AptekApp0215\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\AptekApp0215\AptekApp0215\obj\Debug\AptekApp0215.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\AptekApp0215\AptekApp0215\obj\Debug\AptekApp0215.AdminDashboard.resources
+C:\Users\Admin\source\repos\AptekApp0215\AptekApp0215\obj\Debug\AptekApp0215.Form1.resources
+C:\Users\Admin\source\repos\AptekApp0215\AptekApp0215\obj\Debug\AptekApp0215.Properties.Resources.resources
+C:\Users\Admin\source\repos\AptekApp0215\AptekApp0215\obj\Debug\AptekApp0215.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\AptekApp0215\AptekApp0215\obj\Debug\AptekApp0215.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AptekApp0215\AptekApp0215\obj\Debug\AptekApp0215.csproj.CopyComplete
+C:\Users\Admin\source\repos\AptekApp0215\AptekApp0215\obj\Debug\AptekApp0215.exe
+C:\Users\Admin\source\repos\AptekApp0215\AptekApp0215\obj\Debug\AptekApp0215.pdb
